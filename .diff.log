@@ -1,0 +1,40 @@
+diff --git a/interactive_stage b/interactive_stage
+index f141503..c1ab949 100644
+--- a/interactive_stage
++++ b/interactive_stage
+@@ -1,33 +1,8 @@
+-change at first of file
++change in first of file
+ 
+ new file for interactive staging
+ 
+ hi interactive mode
+ 
+-add middle line
+ 
+-
+-
+-
+-
+-
+-
+-change at end of file.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-batch mode
++change at end of file
